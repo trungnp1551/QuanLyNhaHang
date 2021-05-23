@@ -1,0 +1,16 @@
+D:\Trung\Study\TaiLieu\HKIV\NMCNPM\DoAn\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe.config
+D:\Trung\Study\TaiLieu\HKIV\NMCNPM\DoAn\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+D:\Trung\Study\TaiLieu\HKIV\NMCNPM\DoAn\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+D:\Trung\Study\TaiLieu\HKIV\NMCNPM\DoAn\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csprojAssemblyReference.cache
+D:\Trung\Study\TaiLieu\HKIV\NMCNPM\DoAn\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+D:\Trung\Study\TaiLieu\HKIV\NMCNPM\DoAn\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
+D:\Trung\Study\TaiLieu\HKIV\NMCNPM\DoAn\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+D:\Trung\Study\TaiLieu\HKIV\NMCNPM\DoAn\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+D:\Trung\Study\TaiLieu\HKIV\NMCNPM\DoAn\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+D:\Trung\Study\TaiLieu\HKIV\NMCNPM\DoAn\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.loginForm.resources
+D:\Trung\Study\TaiLieu\HKIV\NMCNPM\DoAn\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.mainscreenForm.resources
+D:\Trung\Study\TaiLieu\HKIV\NMCNPM\DoAn\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.menuForm.resources
+D:\Trung\Study\TaiLieu\HKIV\NMCNPM\DoAn\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.serveForm.resources
+D:\Trung\Study\TaiLieu\HKIV\NMCNPM\DoAn\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.payForm.resources
+D:\Trung\Study\TaiLieu\HKIV\NMCNPM\DoAn\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.employeeForm.resources
+D:\Trung\Study\TaiLieu\HKIV\NMCNPM\DoAn\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.billForm.resources
